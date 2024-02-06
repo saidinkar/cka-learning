@@ -1,4 +1,4 @@
-#ETCD - Commands (Optional)
+# ETCD - Commands (Optional)
 (Optional) Additional information about ETCDCTL Utility
 
 ETCDCTL is the CLI tool used to interact with ETCD.
